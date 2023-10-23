@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Details on Rico the Pug</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Details on Rico the Pug</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>rico</title>
+      <link>/tags/rico/index.json</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rico/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>status update</title>
+      <link>/tags/status-update/index.json</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/status-update/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>details</title>
+      <link>/tags/details/index.json</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/details/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>food</title>
+      <link>/tags/food/index.json</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/food/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pugs</title>
+      <link>/tags/pugs/index.json</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pugs/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yumyum</title>
+      <link>/tags/yumyum/index.json</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/yumyum/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facts</title>
+      <link>/tags/facts/index.json</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/facts/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pug</title>
+      <link>/tags/pug/index.json</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pug/index.json</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
