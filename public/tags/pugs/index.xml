@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pugs on Details on Rico the Pug</title>
+    <link>/tags/pugs/</link>
+    <description>Recent content in pugs on Details on Rico the Pug</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/pugs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pug Facts</title>
+      <link>/blog/pug_facts/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/pug_facts/</guid>
+      <description>Pug Facts From Wikipedia:
+The pug is a breed of dog with physically distinctive features of a wrinkly, short-muzzled face, and curled tail. The breed has a fine, glossy coat that comes in a variety of colours, most often fawn or black, and a compact square body with well-developed muscles.
+Pugs were brought from China to Europe in the sixteenth century and were popularized in Western Europe by the House of Orange of the Netherlands, and the House of Stuart.</description>
+    </item>
+    
+  </channel>
+</rss>
